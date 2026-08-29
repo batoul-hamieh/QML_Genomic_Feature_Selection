@@ -2,7 +2,7 @@
 
 This repository provides a computational framework evaluating Quantum Machine Learning (QML) against classical machine learning baselines for genomic feature selection and tissue-state classification in spatial transcriptomics (**GSE241124**). 
 
-Developed as an undergraduate research thesis at the **Lebanese University**, the project benchmarks classical dimensionality reduction techniques against hybrid NISQ-era quantum architectures to isolate synergistic gene-gene interactions in wound healing datasets.
+Developed as an undergraduate research thesis at the Lebanese University, the project benchmarks classical dimensionality reduction techniques against hybrid NISQ-era quantum architectures to isolate synergistic gene-gene interactions in wound healing datasets.
 
 ---
 
@@ -54,11 +54,17 @@ Classical Baselines         Quantum Architectures
 
 ## Repository Structure
 
-├── data/               
-├── preprocessing/      
+├── data/ 
+
+├── preprocessing/ 
+
 ├── models/
-│   ├── classical/     
-│   └── quantum/              
-├── requirements.txt    
+
+│   ├── classical/ 
+
+│   └── quantum/  
+
+├── requirements.txt 
+
 └── README.md
 
