@@ -19,10 +19,10 @@ Developed as an undergraduate research thesis at the Lebanese University, the pr
 
 | Category | Tools & Libraries |
 | :--- | :--- |
-| **Quantum Computing** | Qiskit, PennyLane |
+| **Quantum Computing** | PennyLane, PennyLane-lightning  |
 | **Machine Learning** | PyTorch, Scikit-Learn |
 | **Bioinformatics** | Scanpy, AnnData, GSEAPY |
-| **Data Processing** | NumPy, Pandas, SciPy |
+| **Data Processing** | NumPy, Pandas Scipy|
 
 ---
 
