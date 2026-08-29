@@ -32,7 +32,7 @@ Developed as an undergraduate research thesis at the Lebanese University, the pr
 Raw Spatial Transcriptomics (GSE241124)
            │
            ▼
- Scanpy Quality Control & Filtering
+ Scanpy Quality Control
            │
    ┌───────┴───────────────────────────┐
    ▼                                   ▼
@@ -55,13 +55,9 @@ Classical Baselines         Quantum Architectures
 ## Repository Structure
 
 ├── data/ 
-
 ├── preprocessing/
-
 ├── models/ 
-
 ├── requirements.txt 
-
 └── README.md
 
 ---
