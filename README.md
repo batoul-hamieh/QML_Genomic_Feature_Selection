@@ -60,6 +60,8 @@ Classical Baselines         Quantum Architectures
 
 ├── models/ 
 
+├── evaluation/ 
+
 ├── requirements.txt 
 
 └── README.md
