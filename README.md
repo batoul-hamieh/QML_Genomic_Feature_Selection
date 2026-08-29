@@ -55,8 +55,8 @@ Classical Baselines         Quantum Architectures
 ## Repository Structure
 
 ├── data/ 
-├── preprocessing/ 
-├── models/  
+├── preprocessing/
+├── models/ 
 ├── requirements.txt 
 └── README.md
 
