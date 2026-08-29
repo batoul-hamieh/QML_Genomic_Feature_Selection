@@ -55,16 +55,22 @@ Classical Baselines         Quantum Architectures
 ## Repository Structure
 
 ├── data/ 
-
 ├── preprocessing/ 
-
-├── models/
-
-│   ├── classical/ 
-
-│   └── quantum/  
-
+├── models/  
 ├── requirements.txt 
-
 └── README.md
 
+---
+
+## Installation
+
+```bash
+git clone https://github.com/batoul-hamieh/QML_Genomic_Feature_Selection.git
+cd QML_Genomic_Feature_Selection
+```
+```bash
+python -m venv venv
+source venv\Scripts\activate
+pip install -r requirements.txt
+```
+---
